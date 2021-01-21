@@ -1,0 +1,19 @@
+pkg update && pkg upgrade
+
+pkg install git curl
+
+pkg install nano php unzip
+
+termux-setup-storage -y
+
+cd /sdcard/your file
+
+ls
+
+unzip yosub.zip
+
+nano config.php
+
+php bot.php
+
+
